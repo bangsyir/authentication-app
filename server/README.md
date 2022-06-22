@@ -8,7 +8,7 @@ This project is example of **backend** for authentication app.
 
 ### Stack
 
-- DOCKER (for database)
+- DOCKER (docker-compose)
 - EXPRESSJS (nodejs framework)
 - POSTGRESQL (database)
 

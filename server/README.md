@@ -18,9 +18,11 @@ The idea come from how to secure web app between server and client.
 
 this is the feature :
 
-- register
-- login (accessToken, refreshToken)
-- get new accessToken if refresh token is expired
+- register.
+- login (accessToken, refreshToken).
+- get new accessToken when expired.
+- auth middleware
+- return all users when client is authorized.
 
 ### how to run ?
 

@@ -17,13 +17,16 @@ This project is example of **backend** for authentication app.
 run the docker daatbase image
 
 ```sh
+# yarn
 yarn run docker:start
-or
+# docker-compose
 docker-compose up -d postgres
 ```
 
 ```sh
+# npm
 npm run dev
+# yarn
 yarn run dev
 ```
 

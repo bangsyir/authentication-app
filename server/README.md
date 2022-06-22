@@ -23,11 +23,11 @@ yarn run docker:start
 docker-compose up -d postgres
 ```
 
+skip this process if you already have own databse on your computer.
+
 ```sh
 # npm
 npm run dev
 # yarn
 yarn run dev
 ```
-
-skip this process if you already have own databse on your computer.

@@ -12,6 +12,16 @@ This project is example of **backend** for authentication app.
 - EXPRESSJS (nodejs framework)
 - POSTGRESQL (database)
 
+### Feature
+
+The idea come from how to secure web app between server and client.
+
+this is the feature :
+
+- register
+- login (accessToken, refreshToken)
+- get new accessToken if refresh token is expired
+
 ### how to run ?
 
 run the docker daatbase image
